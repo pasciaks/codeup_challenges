@@ -6,7 +6,6 @@ return the string in alphabetical order. E.g. "hello world" becomes
 "ehllo dlorw". So make sure your function separates and alphabetizes
 each word separately.
 
-
 */
 
 function alphabet_soup(str) {
